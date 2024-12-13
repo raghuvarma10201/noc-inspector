@@ -1,0 +1,7 @@
+{
+  "name": "NOC Inspector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
